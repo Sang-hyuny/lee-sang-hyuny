@@ -5,12 +5,13 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하십니까 2023.09.14~2024.03.08 동안 인공지능 융합서비스 개발자과정(NCS) 15 차를 이수 하였습니다 
+비록 배운시간은 짧지만 그 짧은 시간동안 배운거를 다 활용하여 프로젝트를 하였습니다. 
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: lesaoh99@gmail.com
 - 블로그: 
 - 깃헙: https://github.com/JungHyung2
 

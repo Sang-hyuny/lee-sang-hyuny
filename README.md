@@ -14,7 +14,7 @@
 
 ## :pushpin: Contact
 - 이메일: lesaoh99@gmail.com
-- 블로그: 
+// - 블로그: 
 - 깃헙: https://github.com/Sang-hyuny
 
 </br>

@@ -3,7 +3,9 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오늘의 해가 지면 내일은 더 밝은 해가 뜬다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하십니까 2023.09.14~2024.03.08 동안 인공지능 융합서비스 개발자과정(NCS) 15 차를 이수 하였습니다 </li>비록 배운시간은 짧지만 그 짧은 시간동안 배운거를 다 활용하여 프로젝트를 하였습니다. </li>프론트랑 백 둘다 관심이 있습니다</li>프론트는 눈에 보여서 재밌고 백도 안되는 문제를 해결할때마다 짜릿한 기분을 느껴 좋아합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하십니까 2023.09.14~2024.03.08 동안 인공지능 융합서비스 개발자과정(NCS) 15 차를 이수 하였습니다 비록 배운시간은 짧지만 그 짧은 시간동안 배운거를 다 활용하여 프로젝트를 하였습니다. 프론트랑 백 둘다 관심이 있습니다. 제가 Front-end 쪽으로는 원하는 대로 UI를 디자인하고 구현하는 것이 즐거워 흥미를 느끼고 있고, 
+Back-end의 경우는 코드를 작성하는 과정에서 막히면 답답하지만, 그 문제를 해결했을 때의 만족감을 느끼는 것을 즐깁니다. Front-end와 Back-end 모두에 대한 흥미를 가지고 있어 양쪽에서의 경험을
+즐기고 있습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 

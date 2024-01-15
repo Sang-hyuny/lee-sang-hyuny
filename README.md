@@ -26,8 +26,9 @@ Back-end의 경우는 코드를 작성하는 과정에서 막히면 답답하지
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=lee-sang-hyuny&bg_color=180,df6d6d,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-sang-hyuny&layout=compact&bg_color=180,df6d6d,00000000&title_color=000000&text_color=000000"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
+    
+    
+    </div> 
     </div>
     

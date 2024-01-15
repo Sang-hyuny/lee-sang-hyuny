@@ -20,15 +20,25 @@ Back-end의 경우는 코드를 작성하는 과정에서 막히면 답답하지
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👀 Contact </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:lesaoh99@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lesaoh99@gmail.com"> </a>
-          </div>  <br> 
+    - 이메일 : lesaoh99@gmail.com <br>
+   - 깃헙 : https://github.com/Sang-hyuny 
+        <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSang-hyuny%2Flee-sang-hyuny%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=git&edge_flat=false</a>
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤝 Projects </h2> <div style="text-align: left;"> 
+        
+### 1. [금연여행](https://github.com/2021-SMHRD-KDT-AI-15/cbp.git)<br>
+>40일간 금연여행 <br>
+>개발 기간: 2023.11.29 ~ 2023.12.13  <br>
+>  
+>기술 스택:  <br>
+>Java / JSP / Servlet / Python / Oracle / HTML / CSS / Javascript  <br>
+>  
+>[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/cbp.git) 참고
+
+---
     
-    </div> 
-    </div>
+    
     

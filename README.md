@@ -27,7 +27,7 @@ Back-end의 경우는 코드를 작성하는 과정에서 막히면 답답하지
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
-    
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
     
     </div> 
     </div>

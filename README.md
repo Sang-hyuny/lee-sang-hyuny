@@ -41,6 +41,16 @@
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/cbp.git) 참고
 
+### 1. [DistilBERT와 ChatGPT를 활용한 일기 감정분석 및 AI친구 서비스](https://github.com/smhrdMCC/TodakTodak/blob/main/README.md)<br>
+> - 사용자의 일기를 분석하여 일기에 나타난 사용자의 감정을 정의 <br>
+> - 사용자의 일기를 ChatGPT를 통해서 피드백 <br>
+> - 교환일기 기능을 통해 사용자 간 소셜 활동 <br>
+>개발 기간: 2024.02.13 ~ 2024.03.06  <br>
+>  
+>기술 스택:  <br>
+>android studio / Tomcat / MariaDB / spring boot <br>
+>  
+>[프로젝트 상세 설명](https://github.com/smhrdMCC/TodakTodak/blob/main/README.md) 참고
 ---
     
     

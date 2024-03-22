@@ -2,12 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f50f0f,100:05fab0&height=120&text=No%20One%20Replace%20YOU&animation=scaleIn&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오늘의 해가 지면 내일은 더 밝은 해가 뜬다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하십니까 2023.09.14~2024.03.08 동안 인공지능 융합서비스 개발자과정(NCS) 928시간 이수 하였습니다 <br>
-        비록 배운시간은 짧지만 그 짧은 시간동안 배운거를 다 활용하여 프로젝트를 하였습니다.<br>
-        프론트랑 백 둘다 관심이 있습니다. 제가 Front-end 쪽으로는 원하는 대로 UI를 디자인하고 구현하는 것이 즐거워 흥미를 느끼고 있고, <br>
-        Back-end의 경우는 코드를 작성하는 과정에서 막히면 답답하지만, 그 문제를 해결했을 때의 만족감을 느끼는 것을 즐깁니다. <br>
-        Front-end와 Back-end 모두에 대한 흥미를 가지고 있어 양쪽에서의 경험을
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발자 이상현 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+        - Back-end와 Front-end 개발 모두 흥미를 가지고 있는 개발자 이상현입니다.<br>
+- 인공지능 융합서비스 개발자과정(NCS) 928시간 수료했습니다. <br>
+- 프로젝트의 개수는 많지 않지만 모든 팀프로젝트에서 프론트엔드와 백엔드 개발을 동시 수행했습니다.<br>
+- 코드를 작성하는 과정에서 막히면 답답하지만, 그 문제를 해결했을 때의 만족감을 느끼는 것을 즐깁니다.<br>
 즐기고 있습니다. </div> 
     </div>
     <div style="text-align: left;">

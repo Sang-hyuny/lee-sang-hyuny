@@ -2,9 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f50f0f,100:05fab0&height=120&text=No%20One%20Replace%20YOU&animation=scaleIn&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발자 이상현 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Back-end와 Front-end 개발 모두 흥미를 가지고 있는 개발자 이상현입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        - Back-end와 Front-end 개발 모두 흥미를 가지고 있는 개발자 이상현입니다.<br>
 - 인공지능 융합서비스 개발자과정(NCS) 928시간 수료했습니다. <br>
 - 프로젝트의 개수는 많지 않지만 모든 팀프로젝트에서 프론트엔드와 백엔드 개발을 동시 수행했습니다.<br>
 - 코드를 작성하는 과정에서 막히면 답답하지만, 그 문제를 해결했을 때의 만족감을 느끼는 것을 즐깁니다.<br>
